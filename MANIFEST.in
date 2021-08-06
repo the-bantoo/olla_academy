@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include olla_academy *.css
+recursive-include olla_academy *.csv
+recursive-include olla_academy *.html
+recursive-include olla_academy *.ico
+recursive-include olla_academy *.js
+recursive-include olla_academy *.json
+recursive-include olla_academy *.md
+recursive-include olla_academy *.png
+recursive-include olla_academy *.py
+recursive-include olla_academy *.svg
+recursive-include olla_academy *.txt
+recursive-exclude olla_academy *.pyc
